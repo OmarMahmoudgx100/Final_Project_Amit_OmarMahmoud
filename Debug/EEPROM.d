@@ -1,0 +1,1 @@
+EEPROM.o EEPROM.o: ../EEPROM.c

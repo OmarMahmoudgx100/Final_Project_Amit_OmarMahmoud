@@ -1,0 +1,8 @@
+HEATING_COOLING.o HEATING_COOLING.o: ../HEATING_COOLING.c \
+  ../DIO_Interface.h ../STD_TYPES.h ../HEATING_COOLING.h
+
+../DIO_Interface.h:
+
+../STD_TYPES.h:
+
+../HEATING_COOLING.h:
